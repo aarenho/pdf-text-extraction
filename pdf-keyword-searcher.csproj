@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Aspose.PDF" Version="20.10.0" />
+    <PackageReference Include="EPPlus" Version="4.5.3.3" />
     <PackageReference Include="PdfPig" Version="0.1.2" />
     <PackageReference Include="PdfSharp" Version="1.50.5147" />
   </ItemGroup>
